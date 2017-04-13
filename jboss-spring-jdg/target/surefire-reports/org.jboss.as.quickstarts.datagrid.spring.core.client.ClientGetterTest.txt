@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.jboss.as.quickstarts.datagrid.spring.core.client.ClientGetterTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec

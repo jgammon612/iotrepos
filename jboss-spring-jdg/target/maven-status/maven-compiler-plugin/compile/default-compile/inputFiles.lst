@@ -1,0 +1,16 @@
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/bootstrap/Application.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/core/client/PatronCache.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/core/client/ClientCache.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/rest/PatronRest.java
+/media/sf_sharedfolder/examples/spring/src/main/java/com/brinker/example/BrinkerPatron.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/rest/configuration/RestConfiguration.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/core/configuration/DomainConfig.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/bootstrap/ServletInitializer.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/core/client/PatronCacheLoader.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/core/client/Client.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/core/client/CachedClientGetter.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/core/client/ClientGetter.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/rest/model/Clients.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/rest/CacheRest.java
+/media/sf_sharedfolder/examples/spring/src/main/java/com/brinker/example/Patrons.java
+/media/sf_sharedfolder/examples/spring/src/main/java/org/jboss/as/quickstarts/datagrid/spring/rest/ClientsRest.java

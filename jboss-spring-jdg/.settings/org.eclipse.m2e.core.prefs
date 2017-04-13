@@ -1,0 +1,4 @@
+activeProfiles=repository-maven2-org, jboss-ga-repository, jboss-earlyaccess-repository, jboss-ga, redhat-ga-repository
+eclipse.preferences.version=1
+resolveWorkspaceProjects=true
+version=1

@@ -1,0 +1,16 @@
+org/jboss/as/quickstarts/datagrid/spring/rest/configuration/RestConfiguration.class
+org/jboss/as/quickstarts/datagrid/spring/core/configuration/DomainConfig.class
+org/jboss/as/quickstarts/datagrid/spring/rest/PatronRest.class
+org/jboss/as/quickstarts/datagrid/spring/core/client/Client.class
+org/jboss/as/quickstarts/datagrid/spring/core/client/CachedClientGetter.class
+org/jboss/as/quickstarts/datagrid/spring/core/client/PatronCache.class
+org/jboss/as/quickstarts/datagrid/spring/core/client/ClientCache.class
+org/jboss/as/quickstarts/datagrid/spring/bootstrap/ServletInitializer.class
+com/brinker/example/Patrons.class
+org/jboss/as/quickstarts/datagrid/spring/rest/ClientsRest.class
+org/jboss/as/quickstarts/datagrid/spring/rest/model/Clients.class
+org/jboss/as/quickstarts/datagrid/spring/rest/CacheRest.class
+org/jboss/as/quickstarts/datagrid/spring/core/client/PatronCacheLoader.class
+org/jboss/as/quickstarts/datagrid/spring/core/client/ClientGetter.class
+org/jboss/as/quickstarts/datagrid/spring/bootstrap/Application.class
+com/brinker/example/BrinkerPatron.class
